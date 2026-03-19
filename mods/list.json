@@ -1,26 +1,130 @@
 [
   {
-    "id": "jei",
-    "name": "Just Enough Items (JEI)",
-    "version": "7.7.1.153",
-    "filename": "jei-1.16.5-7.7.1.153.jar",
-    "url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/mods/jei-1.16.5-7.7.1.153.jar",
-    "hash": "put_md5_hash_here"
+    "id": "biomesoplenty",
+    "name": "Biomes O' Plenty",
+    "version": "13.1.0.488",
+    "filename": "BiomesOPlenty-1.16.5-13.1.0.488-universal.jar",
+    "url": "http://103.253.75.213/patch-files/mods/BiomesOPlenty-1.16.5-13.1.0.488-universal.jar",
+    "enabled_by_default": true
+  },
+  {
+    "id": "customnpcs",
+    "name": "Custom NPCs",
+    "version": "1.16.5.20220515",
+    "filename": "CustomNPCs-1.16.5.20220515.jar",
+    "url": "http://103.253.75.213/patch-files/mods/CustomNPCs-1.16.5.20220515.jar",
+    "enabled_by_default": true
   },
   {
     "id": "optifine",
-    "name": "OptiFine",
-    "version": "HD_U_G8",
-    "filename": "OptiFine_1.16.5_HD_U_G8.jar",
-    "url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/mods/OptiFine_1.16.5_HD_U_G8.jar",
-    "hash": "put_md5_hash_here"
+    "name": "OptiFine HD U G8 pre2",
+    "version": "1.16.5_HD_U_G8_pre2",
+    "filename": "OptiFine-OptiFine-1.16.5_HD_U_G8_pre2.jar",
+    "url": "http://103.253.75.213/patch-files/mods/OptiFine-OptiFine-1.16.5_HD_U_G8_pre2.jar",
+    "enabled_by_default": true
   },
   {
-    "id": "waystones",
-    "name": "Waystones",
-    "version": "7.6.4",
-    "filename": "waystones-forge-1.16.5-7.6.4.jar",
-    "url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/mods/waystones-forge-1.16.5-7.6.4.jar",
-    "hash": "put_md5_hash_here"
+    "id": "ordinarycoins",
+    "name": "Ordinary Coins",
+    "version": "1.0",
+    "filename": "OrdinaryCoins-1.0-forge.jar",
+    "url": "http://103.253.75.213/patch-files/mods/OrdinaryCoins-1.0-forge.jar",
+    "enabled_by_default": true
+  },
+  {
+    "id": "pixelmon",
+    "name": "Pixelmon",
+    "version": "9.13-2.2",
+    "filename": "Pixelmon-9.13-2.2.jar",
+    "url": "http://103.253.75.213/patch-files/mods/Pixelmon-9.13-2.2.jar",
+    "enabled_by_default": true
+  },
+  {
+    "id": "pokehud",
+    "name": "PokeHud",
+    "version": "1.16.5",
+    "filename": "PokeHud-Mod-Forge-1.16.5.jar",
+    "url": "http://103.253.75.213/patch-files/mods/PokeHud-Mod-Forge-1.16.5.jar",
+    "enabled_by_default": true
+  },
+  {
+    "id": "armourersworkshop",
+    "name": "Armourer's Workshop",
+    "version": "2.0.8-dev.240",
+    "filename": "armourersworkshop-forge-1.16.5-2.0.8-dev.240.jar",
+    "url": "http://103.253.75.213/patch-files/mods/armourersworkshop-forge-1.16.5-2.0.8-dev.240.jar",
+    "enabled_by_default": true
+  },
+  {
+    "id": "cfm",
+    "name": "MrCrayfish's Furniture Mod",
+    "version": "7.0.0pre22",
+    "filename": "cfm-7.0.0pre22-1.16.3.jar",
+    "url": "http://103.253.75.213/patch-files/mods/cfm-7.0.0pre22-1.16.3.jar",
+    "enabled_by_default": true
+  },
+  {
+    "id": "jei",
+    "name": "Just Enough Items (JEI)",
+    "version": "7.8.0.1009",
+    "filename": "jei-1.16.5-7.8.0.1009.jar",
+    "url": "http://103.253.75.213/patch-files/mods/jei-1.16.5-7.8.0.1009.jar",
+    "enabled_by_default": true
+  },
+  {
+    "id": "journeymap",
+    "name": "JourneyMap",
+    "version": "5.8.5p6",
+    "filename": "journeymap-1.16.5-5.8.5p6.jar",
+    "url": "http://103.253.75.213/patch-files/mods/journeymap-1.16.5-5.8.5p6.jar",
+    "enabled_by_default": true
+  },
+  {
+    "id": "konkrete",
+    "name": "Konkrete",
+    "version": "1.6.0",
+    "filename": "konkrete_forge_1.6.0_MC_1.16.2-1.16.5.jar",
+    "url": "http://103.253.75.213/patch-files/mods/konkrete_forge_1.6.0_MC_1.16.2-1.16.5.jar",
+    "enabled_by_default": true
+  },
+  {
+    "id": "pamhc2foodcore",
+    "name": "Pam's HarvestCraft 2 Food Core",
+    "version": "1.0.2",
+    "filename": "pamhc2foodcore-1.16.3-1.0.2.jar",
+    "url": "http://103.253.75.213/patch-files/mods/pamhc2foodcore-1.16.3-1.0.2.jar",
+    "enabled_by_default": true
+  },
+  {
+    "id": "pixelcore",
+    "name": "PixelCore",
+    "version": "1.0.0",
+    "filename": "pixelcore-1.0.0.jar",
+    "url": "http://103.253.75.213/patch-files/mods/pixelcore-1.0.0.jar",
+    "enabled_by_default": true
+  },
+  {
+    "id": "spiffyhud",
+    "name": "SpiffyHud",
+    "version": "1.5.0",
+    "filename": "spiffyhud_forge_1.5.0_MC_1.16.2-1.16.5.jar",
+    "url": "http://103.253.75.213/patch-files/mods/spiffyhud_forge_1.5.0_MC_1.16.2-1.16.5.jar",
+    "enabled_by_default": true
+  },
+  {
+    "id": "terastallize",
+    "name": "Terastallize",
+    "version": "1.0",
+    "filename": "terastallize.jar",
+    "url": "http://103.253.75.213/patch-files/mods/terastallize.jar",
+    "enabled_by_default": true
+  },
+  {
+    "id": "voicechat",
+    "name": "Simple Voice Chat",
+    "version": "2.4.27",
+    "filename": "voicechat-forge-1.16.5-2.4.27.jar",
+    "url": "http://103.253.75.213/patch-files/mods/voicechat-forge-1.16.5-2.4.27.jar",
+    "enabled_by_default": true
   }
 ]
