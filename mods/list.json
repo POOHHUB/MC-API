@@ -1,0 +1,26 @@
+[
+  {
+    "id": "jei",
+    "name": "Just Enough Items (JEI)",
+    "version": "7.7.1.153",
+    "filename": "jei-1.16.5-7.7.1.153.jar",
+    "url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/mods/jei-1.16.5-7.7.1.153.jar",
+    "hash": "put_md5_hash_here"
+  },
+  {
+    "id": "optifine",
+    "name": "OptiFine",
+    "version": "HD_U_G8",
+    "filename": "OptiFine_1.16.5_HD_U_G8.jar",
+    "url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/mods/OptiFine_1.16.5_HD_U_G8.jar",
+    "hash": "put_md5_hash_here"
+  },
+  {
+    "id": "waystones",
+    "name": "Waystones",
+    "version": "7.6.4",
+    "filename": "waystones-forge-1.16.5-7.6.4.jar",
+    "url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/mods/waystones-forge-1.16.5-7.6.4.jar",
+    "hash": "put_md5_hash_here"
+  }
+]
