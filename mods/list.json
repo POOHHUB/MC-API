@@ -128,51 +128,51 @@
     "enabled_by_default": true
   },
   {
-    "id": "DurabilityNotifier",
-    "name": "DurabilityNotifier",
+    "id": "durabilitynotifier",
+    "name": "Durability Notifier",
     "version": "1.1.0",
     "filename": "DurabilityNotifier-1.16.5-1.1.0.jar",
-    "url": "https://raw.githubusercontent.com/POOHHUB/MC-API/refs/heads/main/mods/DurabilityNotifier-1.16.5-1.1.0.jar",
+    "url": "https://raw.githubusercontent.com/POOHHUB/MC-API/main/mods/DurabilityNotifier-1.16.5-1.1.0.jar",
     "enabled_by_default": true
   },
   {
-    "id": "FpsReducer",
-    "name": "FpsReducer-forge",
+    "id": "fpsreducer",
+    "name": "FPS Reducer",
     "version": "1.24",
     "filename": "FpsReducer-forge-1.24-mc1.16.5.jar",
-    "url": "https://raw.githubusercontent.com/POOHHUB/MC-API/refs/heads/main/mods/FpsReducer-forge-1.24-mc1.16.5.jar",
+    "url": "https://raw.githubusercontent.com/POOHHUB/MC-API/main/mods/FpsReducer-forge-1.24-mc1.16.5.jar",
     "enabled_by_default": true
   },
   {
-    "id": "InventoryHud",
-    "name": "InventoryHud",
+    "id": "inventoryhud",
+    "name": "Inventory HUD+",
     "version": "3.4.1",
     "filename": "InventoryHud_[1.16.2-1.16.5].forge-3.4.1.jar",
-    "url": "https://raw.githubusercontent.com/POOHHUB/MC-API/refs/heads/main/mods/InventoryHud_[1.16.2-1.16.5].forge-3.4.1.jar",
+    "url": "https://raw.githubusercontent.com/POOHHUB/MC-API/main/mods/InventoryHud_%5B1.16.2-1.16.5%5D.forge-3.4.1.jar",
     "enabled_by_default": true
   },
   {
-    "id": "PMBattleInfo",
-    "name": "PMBattleInfo",
+    "id": "pmbattleinfo",
+    "name": "PM Battle Info",
     "version": "1.3.0",
     "filename": "PMBattleInfo-1.3.0.jar",
-    "url": "https://raw.githubusercontent.com/POOHHUB/MC-API/refs/heads/main/mods/PMBattleInfo-1.3.0.jar",
+    "url": "https://raw.githubusercontent.com/POOHHUB/MC-API/main/mods/PMBattleInfo-1.3.0.jar",
     "enabled_by_default": true
   },
   {
     "id": "litematica",
-    "name": "litematica",
+    "name": "Litematica",
     "version": "0.0.0-dev.20210917",
     "filename": "litematica-forge-1.16.5-0.0.0-dev.20210917.jar",
-    "url": "https://raw.githubusercontent.com/POOHHUB/MC-API/refs/heads/main/mods/litematica-forge-1.16.5-0.0.0-dev.20210917.jar",
+    "url": "https://raw.githubusercontent.com/POOHHUB/MC-API/main/mods/litematica-forge-1.16.5-0.0.0-dev.20210917.jar",
     "enabled_by_default": true
   },
   {
     "id": "malilib",
-    "name": "malilib",
+    "name": "MaLiLib",
     "version": "0.10.0-dev.21+beta.1",
     "filename": "malilib-forge-1.16.5-0.10.0-dev.21+beta.1.jar",
-    "url": "https://raw.githubusercontent.com/POOHHUB/MC-API/refs/heads/main/mods/malilib-forge-1.16.5-0.10.0-dev.21+beta.1.jar",
+    "url": "https://raw.githubusercontent.com/POOHHUB/MC-API/main/mods/malilib-forge-1.16.5-0.10.0-dev.21+beta.1.jar",
     "enabled_by_default": true
-  },
+  }
 ]
