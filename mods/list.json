@@ -101,7 +101,7 @@
     "version": "1.0.0",
     "filename": "pixelcore-1.0.0.jar",
     "url": "http://103.253.75.213/patch-files/mods/pixelcore-1.0.0.jar",
-    "enabled_by_default": true
+    "enabled_by_default": false
   },
   {
     "id": "spiffyhud",
