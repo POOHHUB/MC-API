@@ -100,7 +100,7 @@
     "name": "PixelCore",
     "version": "1.0.1",
     "filename": "pixelcore-1.0.1.jar",
-    "url": "http://103.253.75.213/patch-files/mods/pixelcore-1.0.0.jar",
+    "url": "https://raw.githubusercontent.com/POOHHUB/MC-API/main/mods/pixelcore-1.0.1.jar",
     "enabled_by_default": true
   },
   {
